@@ -1,0 +1,62 @@
+/* Common Starts */
+.w-box{
+	margin: 10px 0;
+	border: 5px solid green;
+}
+.box{
+	height: 70px;
+	background-color: #99D9EA;
+}
+/* Common Ends */
+
+
+
+/* Hrader Starts */
+.header{
+	margin-top: 30px;
+	min-height: 100px;
+	background-color: #FFAEC9;
+}
+/* Hrader Ends */
+
+
+/* Hero Starts */
+.hero{
+	margin: 30px 0;
+	background-color: #FFAEC9;
+}
+.w-h-box{
+
+}
+.box3{
+	height: 70px;
+	background-color: red;
+}
+.w-h-box{
+	border: 5px solid yellowgreen;
+}
+
+/* Hero Ends */
+
+
+/* Body Starts */
+.body{
+
+}
+.box4{
+	height: 120px;
+	background-color: #99D9EA;
+}
+.box5{
+	height: 120px;
+	background-color: red;
+}
+/* Body Endss */
+
+/* Footer Starts */
+.box6{
+	height: 50px;
+	background-color: red;
+}
+/* Footer Ends */
+
